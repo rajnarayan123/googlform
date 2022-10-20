@@ -23,8 +23,8 @@
        <br/>
       <br/>
       Gender:
-      <input type="radio"values="m" name="gender"/>male
-      <input type="radio"values="m" name="gender"/>femail
+      <input type="radio"value="m" name="gender"/>male
+      <input type="radio"value="m" name="gender"/>femail
        <br/>
       <br/>
       </fieldset>
