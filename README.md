@@ -1,6 +1,6 @@
 <html>
   <head>
-     <title>form</title>
+     form
   </head>
 <body>
    <form>
