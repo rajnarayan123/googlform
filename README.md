@@ -24,7 +24,7 @@
       <br/>
       Gender:
       <input type="radio" value="m" name="gender"/>male
-      <input type="radio" value="m" name="gender"/>femail
+      <input type="radio" value="m" name="gender"/>female
        <br/>
       <br/>
       </fieldset>
