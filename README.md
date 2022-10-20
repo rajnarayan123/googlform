@@ -7,19 +7,19 @@
       <fieldset>
       <legend>form</legend>
       Name:
-      <input type="test"/>
+      <input type="text"/>
       <br/>
       <br/>
       Addres:
-      <input type="test"/>
+      <input type="textarea"/>
       <br/>
       <br/>
       email:
-      <input type="test"/>
+      <input type="text"/>
        <br/>
       <br/>
       password:
-      <input type="test"/>
+      <input type="text"/>
        <br/>
       <br/>
       Gender:
