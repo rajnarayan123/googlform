@@ -11,7 +11,7 @@
       <br/>
       <br/>
       Addres:
-      <input type="textarea"/>
+      <input type="texstarea"/>
       <br/>
       <br/>
       email:
@@ -27,7 +27,7 @@
       <input type="radio" value="m" name="gender"/>female
        <br/>
       <br/>
-        <input type="submit" name="submit"/> </t>
+        <input type="submit" name="submit"/>
         <input type="reset" name="reset"/>
       </fieldset>
    </form>
