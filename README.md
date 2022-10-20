@@ -1,11 +1,11 @@
 <html>
   <head>
-    
+    form
   </head>
 <body>
    <form>
       <fieldset>
-      <ligend>form</ligend>
+      <legend>form</legend>
       Name:
       <input type="test"/>
       <br/>
