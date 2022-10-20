@@ -27,6 +27,7 @@
       <input type="radio" value="m" name="gender"/>female
        <br/>
       <br/>
+        <input type="submit" name="submit"/><input type="reset" name="rt"/>
       </fieldset>
    </form>
 </body>
