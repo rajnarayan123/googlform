@@ -7,7 +7,7 @@
       <fieldset>
       <legend>form</legend>
       Name:
-      <input type="text"/>
+      <input type="test"/>
       <br/>
       <br/>
       Addres:
@@ -15,11 +15,11 @@
       <br/>
       <br/>
       email:
-      <input type="text"/>
+      <input type="test"/>
        <br/>
       <br/>
       password:
-      <input type="text"/>
+      <input type="test"/>
        <br/>
       <br/>
       Gender:
